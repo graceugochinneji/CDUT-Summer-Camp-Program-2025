@@ -3,7 +3,7 @@ AI Summer School @ CDUT, July 2025 – Jupyter Notebooks, Code, and Exercises.
 
 Welcome to the official GitHub repository for the **AI Summer School Program** organized by **Chengdu University of Technology (CDUT)** from **July 7 – July 28, 2025**.
 
-This 15-day intensive program covers the foundations of artificial intelligence, machine learning, and real-world applications through lectures, hands-on labs, and interactive dashboards.
+This 15-day intensive program covers the foundations of artificial intelligence, machine learning, and real-world applications through lectures, hands-on labs, and interactive dashboards for smart energy.
 
 ---
 

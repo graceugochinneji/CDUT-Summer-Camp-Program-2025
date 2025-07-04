@@ -1,7 +1,5 @@
-# CDUT-Summer-Camp-Program-2025
+# 🌞 CDUT 2025 AI Summer Camp Program
 AI Summer School @ CDUT, July 2025 – Jupyter Notebooks, Code, and Exercises.
-
-# 🌞 CDUT AI Summer School – 2025
 
 Welcome to the official GitHub repository for the **AI Summer School Program** organized by **Chengdu University of Technology (CDUT)** from **July 7 – July 28, 2025**.
 

@@ -41,9 +41,11 @@ Each day contains lecture slides, Jupyter Notebooks (`.ipynb`), and code samples
 git clone https://github.com/your-username/cdut-ai-summer-school-2025.git
 cd cdut-ai-summer-school-2025
 
-# (Recommended) Create a virtual environment
-python -m venv ai_env
-ai_env\Scripts\activate  # On Windows
+🧠 About the Instructors
+👩‍🏫 Dr. Grace U. Nneji (grace.nneji@zy.cdut.edu.cn)
+👨‍🏫 Dr. Happy N. Monday (happy.monday@zy.cdut.edu.cn)
 
-# Install required packages
-pip install -r requirements.txt
+Associate Professors at the forefront of applied AI, deep learning, machine learning applications and solutions around globe.
+
+📄 License
+This repository is licensed under the MIT License. See the LICENSE file for details.

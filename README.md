@@ -37,8 +37,8 @@ Each day contains lecture slides, Jupyter Notebooks (`.ipynb`), and code samples
 ### ⚙️ Setup Steps
 
 #### Clone the repo
-git clone https://github.com/your-username/cdut-ai-summer-school-2025.git
-cd cdut-ai-summer-school-2025
+git clone https://github.com/graceugochinneji/CDUT-Summer-Camp-Program-2025.git
+cd CDUT-Summer-Camp-Program-2025
 
 
 # 🧠 About the Instructors

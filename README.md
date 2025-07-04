@@ -36,16 +36,16 @@ Each day contains lecture slides, Jupyter Notebooks (`.ipynb`), and code samples
 
 ### ⚙️ Setup Steps
 
-```bash
-# Clone the repo
+#### Clone the repo
 git clone https://github.com/your-username/cdut-ai-summer-school-2025.git
 cd cdut-ai-summer-school-2025
 
-🧠 About the Instructors
+
+# 🧠 About the Instructors
 👩‍🏫 Dr. Grace U. Nneji (grace.nneji@zy.cdut.edu.cn)
 👨‍🏫 Dr. Happy N. Monday (happy.monday@zy.cdut.edu.cn)
 
-Associate Professors at the forefront of applied AI, deep learning, machine learning applications and solutions around globe.
+## Associate Professors at the forefront of applied AI, deep learning, machine learning applications and solutions around globe.
 
 📄 License
 This repository is licensed under the MIT License. See the LICENSE file for details.

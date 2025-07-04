@@ -38,6 +38,7 @@ Each day contains lecture slides, Jupyter Notebooks (`.ipynb`), and code samples
 
 #### Clone the repo
 git clone https://github.com/graceugochinneji/CDUT-Summer-Camp-Program-2025.git
+
 cd CDUT-Summer-Camp-Program-2025
 
 
